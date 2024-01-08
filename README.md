@@ -18,16 +18,16 @@ Resources for Interview Preparation.
 - [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
 - [Dijkstra Algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
 
+# Books
+- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
+# Courses
+- [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+
 # Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
-
-## Books
-- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
-
-## Courses
-- [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
