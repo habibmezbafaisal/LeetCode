@@ -21,7 +21,6 @@ This repository contains LeetCode resources which are useful during interview pr
 # Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
-@@ -33,7 +49,16 @@ This repository contains LeetCode resources which are useful during interview pr
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 
