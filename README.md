@@ -1,6 +1,6 @@
 # LeetCode
-Problem solutions with clean and concise python codes.
-This repository contains LeetCode resources which are useful during interview preparation.
+Problem solutions with clean and concise python codes. 
+Resources for Interview Preparation.
 
 # Fundamental Concepts
 - [LinkedIn List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
